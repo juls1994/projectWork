@@ -12,7 +12,6 @@ import java.sql.SQLException;
  *
  */
 public class JdbcConnection {
- 
     public static void main(String[] args) {
  
         Connection conn = null;

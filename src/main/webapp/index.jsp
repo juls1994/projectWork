@@ -16,6 +16,6 @@
 
 <strong>Ajax Response</strong>:
 <div id="ajaxGetUserServletResponse"></div>
-<div> <a href="index2.jsp">lavori</a></div>
+<div> <a href="pagina2.jsp">lavori</a></div>
 </body>
 </html>
